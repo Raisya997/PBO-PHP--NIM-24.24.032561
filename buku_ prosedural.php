@@ -1,5 +1,5 @@
 <?php
-
+//php versi oop by Andri Purwadi (NIM 24.24.032561)
 $buku = [
     ['judul' => 'Laskar Pelangi', 'penulis' => 'Andrea Hirata', 'tahun'=>2005],
     ['judul' => 'Bumi', 'penulis' => 'Tere Liye', 'tahun'=>2014], 
