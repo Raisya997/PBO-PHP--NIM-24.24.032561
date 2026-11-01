@@ -1,6 +1,6 @@
 
 <?php
-
+//php versi oop by Andri Purwadi (NIM 24.24.032561)
 // Membuat class Buku
 class Buku
 {
